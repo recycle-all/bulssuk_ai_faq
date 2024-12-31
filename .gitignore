@@ -1,0 +1,7 @@
+# Python 관련
+__pycache__/
+*.py[cod]
+*.pyo
+
+# 모델 및 큰 파일
+KR-SBERT-V40K-klueNLI-augSTS/
